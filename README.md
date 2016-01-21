@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=UjxBQSy8IBM
 
 - Account: user01 ~ user06
 - Passwd: Rm4gji4dkru$
+
+- ssh account: hadoop@ec2-54-200-55-254.us-west-2.compute.amazonaws.com
+- use pietty
