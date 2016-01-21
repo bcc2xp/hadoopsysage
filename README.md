@@ -33,3 +33,10 @@ https://www.youtube.com/watch?v=UjxBQSy8IBM
 - https://www.youtube.com/watch?v=OXUFHcCxgPk
 - https://www.youtube.com/watch?v=C_Pj-g5I60M
 - https://www.youtube.com/watch?v=5PW2jx0vmXM
+
+## EMR Account
+
+- url: http://ec2-54-200-55-254.us-west-2.compute.amazonaws.com:8888/
+
+- Account: user01 ~ user06
+- Passwd: Rm4gji4dkru$
