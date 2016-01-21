@@ -27,4 +27,9 @@ https://www.youtube.com/watch?v=EEjJzNwlPpk
 ### [操作範例] 如何使用Hive
 https://www.youtube.com/watch?v=UjxBQSy8IBM
 
+## Cloudera Pseudo Distributed Mode 安裝說明
 
+- https://www.youtube.com/watch?v=6WTbwb5mTSY
+- https://www.youtube.com/watch?v=OXUFHcCxgPk
+- https://www.youtube.com/watch?v=C_Pj-g5I60M
+- https://www.youtube.com/watch?v=5PW2jx0vmXM
