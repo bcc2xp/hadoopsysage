@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=UjxBQSy8IBM
 - Passwd: Rm4gji4dkru$
 
 - ssh account: hadoop@ec2-54-200-55-254.us-west-2.compute.amazonaws.com
-- use pietty
+- use pietty: http://ntu.csie.org/~piaip/pietty/
